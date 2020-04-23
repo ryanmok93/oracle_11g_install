@@ -8,6 +8,10 @@ File contain:
 * user_create.sh
 * firewall_setup.sh
 
+Installiation Envirement
+---
+CentOS 7 x64
+
 Installiation
 ---
 1. Download Oracle 11g R2 from oracle website
