@@ -1,5 +1,5 @@
 # oracle_11g_install
-Oracle 11g R2 install script
+Install oracle 11g R2 server in silent mode by shell script
 
 File contain:
 ---
