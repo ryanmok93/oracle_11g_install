@@ -10,7 +10,7 @@ File contain:
 
 Installiation Envirement
 ---
-CentOS 7 x64 minimal install with yum base repo availiable
+CentOS 7 x64 minimal install with yum base repo available
 
 Installiation
 ---
